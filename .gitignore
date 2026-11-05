@@ -1,3 +1,22 @@
-node_modules
+node_modules/
+
+# Environment and local configuration
 .env
+.env.*
+!.env.example
+
+# Database data and runtime files
+data/
+*.log
+*.lock
+mongod.lock
+
+# Build output
+dist/
+
+# Local secrets and certificates
+*.pem
+*.key
+*.p12
+*.pfx
 data
