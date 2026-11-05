@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Inception",
+    "genre": "Sci-Fi",
+    "year": 2010,
+    "director": "Christopher Nolan",
+    "rating": 8.8
+  },
+  {
+    "title": "The Godfather",
+    "genre": "Crime",
+    "year": 1972,
+    "director": "Francis Ford Coppola",
+    "rating": 9.2
+  },
+  {
+    "title": "Interstellar",
+    "genre": "Sci-Fi",
+    "year": 2014,
+    "director": "Christopher Nolan",
+    "rating": 8.7
+  },
+  {
+    "title": "Pulp Fiction",
+    "genre": "Crime",
+    "year": 1994,
+    "director": "Quentin Tarantino",
+    "rating": 8.9
+  },
+  {
+    "title": "og",
+    "genre": "Sci-Fi",
+    "year": 2026,
+    "director": "sujeeth",
+    "rating": 8
+  }
+]
